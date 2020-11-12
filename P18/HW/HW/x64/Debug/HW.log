@@ -1,0 +1,4 @@
+﻿  Main.c
+F:\北科\程\程作業\109360212_劉璇蓓\P18\source\Main.c(15,23): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+F:\北科\程\程作業\109360212_劉璇蓓\P18\source\Main.c(19,2): warning C4098: 'main': 'void' 函式正在傳回值
+  HW.vcxproj -> F:\北科\程\程作業\109360212_劉璇蓓\P18\HW\x64\Debug\HW.exe
